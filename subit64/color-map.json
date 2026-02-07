@@ -1,0 +1,44 @@
+{
+  "colors": [
+    {
+      "color": "Blue",
+      "trigram": "100",
+      "index": 0
+    },
+    {
+      "color": "Green",
+      "trigram": "101",
+      "index": 1
+    },
+    {
+      "color": "Lime",
+      "trigram": "110",
+      "index": 2
+    },
+    {
+      "color": "Yellow",
+      "trigram": "111",
+      "index": 3
+    },
+    {
+      "color": "Orange",
+      "trigram": "011",
+      "index": 4
+    },
+    {
+      "color": "Red",
+      "trigram": "010",
+      "index": 5
+    },
+    {
+      "color": "Burgundy",
+      "trigram": "001",
+      "index": 6
+    },
+    {
+      "color": "Purple",
+      "trigram": "000",
+      "index": 7
+    }
+  ]
+}
