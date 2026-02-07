@@ -1,0 +1,52 @@
+{
+  "trigrams": [
+    {
+      "code": "100",
+      "index": 0,
+      "name": "T100",
+      "color": "Blue"
+    },
+    {
+      "code": "101",
+      "index": 1,
+      "name": "T101",
+      "color": "Green"
+    },
+    {
+      "code": "110",
+      "index": 2,
+      "name": "T110",
+      "color": "Lime"
+    },
+    {
+      "code": "111",
+      "index": 3,
+      "name": "T111",
+      "color": "Yellow"
+    },
+    {
+      "code": "011",
+      "index": 4,
+      "name": "T011",
+      "color": "Orange"
+    },
+    {
+      "code": "010",
+      "index": 5,
+      "name": "T010",
+      "color": "Red"
+    },
+    {
+      "code": "001",
+      "index": 6,
+      "name": "T001",
+      "color": "Burgundy"
+    },
+    {
+      "code": "000",
+      "index": 7,
+      "name": "T000",
+      "color": "Purple"
+    }
+  ]
+}
